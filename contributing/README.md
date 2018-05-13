@@ -8,7 +8,7 @@ Maybe we'll pull things in from time to time 😉.)
 
 Monstodon is social software built around the premise of getting together with friends and having fun, and Monstodon development looks much the same way.
 There is a lot of casual spitballing over various chats, getting together to hang out between developers, and lighthearted @mentions and flirts cropping up on the fediverse and in issues.
-But our playful demeanor doesn't mean we aren't serious—[far from it](https://bluescholars.bandcamp.com/track/southbound).
+But our playful demeanor doesn't mean we aren't serious—far from it.
 We are able to bring pleasure to our work precisely *because* we are passionate about it, to the extent that maybe there will be a `#monstodon` `#8tracks` `#fanmix` straight from KibiMon dev one day, who can say 🙃.
 
 - Table of Contents
@@ -63,5 +63,6 @@ Friends contributing to the project should already have a sense of what's approp
 **For onlookers and posterity:**
 Monstodon is pro-queer, pro-trans software and its developers are strongly opposed to all forms of harrassment and any violation of boundaries without consent.
 If an external contributor fucks up badly, you can expect us to do what we can to protect the safety of everyone involved.
-If *we* fuck up badly, you should expect (and please hold us to) point №3, above.
+If *we* fuck up badly, expect point №3, above.
+(Feel free to hold us to it!)
 </div>
